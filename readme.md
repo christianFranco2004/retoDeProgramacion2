@@ -18,3 +18,6 @@ Compartir link del repositorio con el reto resuelto por este canal de texto.
 La secuencia de Fibonacci crece rápidamente, así que piensa en una forma eficiente de calcularla para valores más grandes de n.
 Puedes usar un bucle while o un for para ir generando los términos de la secuencia, asegurándote de detenerte una vez que el siguiente término exceda n.
 Haz pruebas con valores pequeños y grandes de n para verificar que la función funcione correctamente.
+<hr>
+<h6>autor<h6>
+Christian Johan Franco Vergara
